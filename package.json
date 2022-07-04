@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harshsingh2985/express-JS/issues"
   },
-  "homepage": "https://github.com/harshsingh2985/express-JS#readme"
+  "homepage": "https://github.com/harshsingh2985/express-JS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }

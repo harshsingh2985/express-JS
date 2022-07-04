@@ -1,0 +1,19 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "In this express-JS we will create own Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshsingh2985/express-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshsingh2985/express-JS/issues"
+  },
+  "homepage": "https://github.com/harshsingh2985/express-JS#readme"
+}
